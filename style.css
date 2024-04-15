@@ -1,0 +1,24 @@
+html {
+     padding-left: 55px;
+     padding-right: 55px;
+     max-width: 1050px;
+     margin-inline: auto;
+     text-align: center;
+     background-color: rgb(218, 180, 204);
+}
+
+.accordeon-info {
+     border: 2px solid rgb(184, 19, 96);
+     background-color: white;
+
+}
+
+.list-title {
+     border: 2px solid rgb(184, 19, 96);
+     background-color: rgb(203, 6, 118);
+     cursor: pointer;
+}
+
+.content-hidden {
+     display: none;
+}
